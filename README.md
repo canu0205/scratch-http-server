@@ -22,8 +22,9 @@ It was created as a learning exercise to deepen understanding of:
 ## Why This Project?
 
 Learning to build a web server from scratch is a fundamental step toward understanding:
-• Stateless communication protocols (HTTP)
-• Server concurrency in Go (via Goroutines)
-• Real-world server architecture
+
+- Stateless communication protocols (HTTP)
+- Server concurrency in Go (via Goroutines)
+- Real-world server architecture
 
 This project serves as a stepping stone toward building more complex backend systems and understanding blockchain networking layers.
